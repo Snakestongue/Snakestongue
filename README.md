@@ -4,7 +4,7 @@ Currently working on a tool designed to help AP World Students Study
   - Link: https://ap-world-study-tool.onrender.com/
 
 Also check out my website to help new FRC students improve their coding
-  - Link: https://snakestongue.github.io/FRC-Programming-Practice/index.html
+  - Link: https://snakestongue.github.io/FRC-Programming-Practice/
 
 
 Both Github Repos are pinned below!
@@ -15,4 +15,5 @@ Knowledge of
 - JavaScript
 - Java 
 - Python
+- Visual Basic
 
