@@ -1,15 +1,17 @@
-# I'm a high school student intrested in solving problems!
+# I'm a high school student interested in solving problems! 
 
+### Focus
+I’m interested in creating projects to help others along with always learning and expanding my knowledge!
 
-### Check out my website to help new FRC students improve their coding
-  - Link: https://snakestongue.github.io/FRC-Programming-Practice/
+### Check out my website designed for FRC programming practice:
+  - Website: https://snakestongue.github.io/FRC-Programming-Practice/
+  - Github Repository is below!
 
-### Knowledge of
+### Skills
 - HTML
 - CSS
 - JavaScript
 - Java 
 - Python
 - Visual Basic
-
 
