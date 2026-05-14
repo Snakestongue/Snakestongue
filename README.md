@@ -1,11 +1,13 @@
-# I'm a high school student interested in solving problems! 
+# Hello, I go by Snakestongue
+
+## High school student interested in problem solving and helping others
 
 ### Focus
-I’m interested in creating projects to help others along with always learning and expanding my knowledge!
+My main focus is creating projects that solve problems and learning on how to expand my skills.
 
 ### Check out my website designed for FRC programming practice:
   - Website: https://snakestongue.github.io/FRC-Programming-Practice/
-  - Github Repository is below!
+  - Github Repository: https://github.com/Snakestongue/FRC-Programming-Practice
 
 ### Skills
 - HTML
