@@ -9,11 +9,12 @@ My main focus is creating projects that solve problems and learning on how to ex
   - Website: https://snakestongue.github.io/FRC-Programming-Practice/
   - Github Repository: https://github.com/Snakestongue/FRC-Programming-Practice
 
-### Skills
-- HTML
-- CSS
-- JavaScript
-- Java 
+### Familiar With
+- Javascript
+- Typescript
 - Python
+- Java
 - Visual Basic
+- CSS
+- HTML
 
