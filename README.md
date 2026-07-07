@@ -15,6 +15,7 @@ My main focus is creating projects that solve problems and learning on how to ex
 - Python
 - Java
 - Visual Basic
+- SQL
 - CSS
 - HTML
 
