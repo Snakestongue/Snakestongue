@@ -1,11 +1,11 @@
-# Hello, I go by Snakestongue
+# Hey, I'm Snakestongue!
 
-## High school student interested in problem solving and helping others
+## I'm a high school student interested creating tools to help others!
 
 ### Focus
-My main focus is creating projects that solve problems and learning on how to expand my skills.
+My main focus is to strengthen my coding skills
 
-### Check out my website designed for FRC programming practice:
+### Check out my website designed for learning FRC coding:
   - Website: https://snakestongue.github.io/FRC-Programming-Practice/
   - Github Repository: https://github.com/Snakestongue/FRC-Programming-Practice
 
