@@ -1,4 +1,4 @@
-# Hey, I'm Snakestongue!
+# Hey, I'm Maeher!
 
 ## I'm a high school student interested creating tools to help others!
 
