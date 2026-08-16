@@ -5,9 +5,9 @@
 ### Focus
 My main focus is to strengthen my coding skills
 
-### Check out my website designed for learning FRC coding:
-  - Website: https://snakestongue.github.io/FRC-Programming-Practice/
-  - Github Repository: https://github.com/Snakestongue/FRC-Programming-Practice
+### Check out my website designed for learning FRC coding called Perscript:
+  - Website: https://snakestongue.github.io/Perscript/
+  - Github Repository: https://github.com/Snakestongue/Perscript
 
 ### Familiar With
 - Javascript
